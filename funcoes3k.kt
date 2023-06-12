@@ -24,7 +24,7 @@ divertido soma(a: Int, b: Int):  Int {
 
 //função principal kotlin
 principal diversão () {
- meuNome("Edney")
+ meuNome("Julia")
  veroufalso(verdadeiro)
  veroufalso(falso)
 
