@@ -1,0 +1,15 @@
+
+fun main(args: Array<String>) {
+  var nome: Boolean = false
+  println(nome)
+  var x: Boolean = true 
+  println(x)
+
+  if (x){
+    print("verdadeiro")
+  }
+  else{
+  println("falso")
+}
+  
+}
